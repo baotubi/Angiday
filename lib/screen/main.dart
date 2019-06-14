@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:food_management/batdau.dart';
-import 'package:food_management/chitietmonan.dart';
-import 'package:food_management/danhsachmonan.dart';
-import 'package:food_management/test.dart';
+import 'package:food_management/screen/batdau.dart';
+import 'package:food_management/screen/chitietmonan.dart';
+import 'package:food_management/screen/danhsachmonan.dart';
+import 'package:food_management/screen/test_silverbar.dart';
 
 void main() => runApp(MyApp());
 
