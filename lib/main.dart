@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       // home: testt(),
-      home: ChiTietMonAn()
-      // home: DanhSachMonAn() 
+      // home: ChiTietMonAn()
+      home: DanhSachMonAn() 
       // home: BatDau()
     );
   }
